@@ -77,7 +77,7 @@ html, body{
 }
 .background-fundo {
   width: 100%;
-  background: rgb(106, 126, 165);
+  background:#fff;
 
 }
 nav.navbar-transparente {
