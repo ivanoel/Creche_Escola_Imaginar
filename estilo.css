@@ -882,19 +882,10 @@ button.slick-next {
   background: url("images/cardapio/fruta.png") repeat;
   color: transparent;
   padding: 15px;
-  transition: all 0.3s ease;
-}
-.cardapio-cabecalho:hover {
-  -webkit-animation: loading-button-animation 2s linear infinite;
-  animation: loading-button-animation 2s linear infinite;
 }
 .cardapio-rodape {
   display: block;
   background: url("images/cardapio/fruts.png") repeat;
   color: transparent;
   padding: 15px;
-}
-.cardapio-rodape:hover {
-  -webkit-animation: loading-button-animation 2s linear infinite;
-  animation: loading-button-animation 2s linear infinite;
 }
